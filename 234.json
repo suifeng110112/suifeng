@@ -12,27 +12,6 @@
       "filterable": 0
     },
     {
-      "key": "drpy_js_爱看",
-      "name": "爱看[js]",
-      "type": 3,
-      "api": "https://agit.ai/dxawi/ray/raw/branch/master/JS/lib/drpy2.min.js",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://agit.ai/dxawi/ray/raw/branch/master/JS/js/爱看.js"
-    },
-    {
-      "key": "荐片",
-      "name": "🎬┃荐片┃影视",
-      "api": "csp_Jianpian",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "http://api2.rinhome.com"
-    },
-    {
       "key": "YGP",
       "name": "🚀叨观荐影┃新片",
       "type": 3,
